@@ -1,11 +1,12 @@
 # Object_Detection_in_Dense_Conditions
 
-References: 1) https://github.com/hsahib2912/Object-detection-reinforcement-learning
-            2) https://www.geeksforgeeks.org/python-opencv-cv2-rectangle-method/
-            3) https://github.com/ultralytics/yolov5
-            4) https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb#scrollTo=7mGmQbAO5pQb
-            5) https://www.youtube.com/watch?v=2nR2e4J4ZaI&t=1025s
-            6) https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data
+## References: 
+1) https://github.com/hsahib2912/Object-detection-reinforcement-learning
+2) https://www.geeksforgeeks.org/python-opencv-cv2-rectangle-method/
+3) https://github.com/ultralytics/yolov5
+4) https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb#scrollTo=7mGmQbAO5pQb
+5) https://www.youtube.com/watch?v=2nR2e4J4ZaI&t=1025s
+6) https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data
             
 In this project, Python>=3.6.0 is required with all requirements.txt installed including PyTorch>=1.7. This project require faster GPU, So Google Colab Pro is used as IDE. 
 
